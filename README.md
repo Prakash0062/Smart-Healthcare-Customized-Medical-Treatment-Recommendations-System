@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personalized Medical Recommendation System
 ![Recording 2024-08-28 145948 (3)](https://github.com/user-attachments/assets/7896a626-f78c-4c7f-ac57-48fe12cf5cd6)
 #
@@ -167,3 +168,6 @@ This project utilizes diagnoses data to:
 
 # Conclusion
 AI/ML presents a significant opportunity in the healthcare industry. Despite some risks of inaccuracies, the model demonstrates high initial accuracy rates and potential for use as a diagnostic filtering mechanism.
+=======
+# Smart-Healthcare-Customized-Medical-Treatment-Recommendations-System
+>>>>>>> f2a1de7e6fcb4bd6ed37a126b02bb88dbab79cdc

@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 flask
 scikit-learn
 numpy
 pandas
 textblob
+=======
+gunicorn
+flask
+scikit-learn
+numpy
+pandas
+textblob
+>>>>>>> f2a1de7e6fcb4bd6ed37a126b02bb88dbab79cdc

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+import sklearn
+>>>>>>> f2a1de7e6fcb4bd6ed37a126b02bb88dbab79cdc
 import numpy as np
 import pandas as pd
 import pickle
